@@ -49,5 +49,5 @@
 - [x] Model should be adjustable dynamically to changed sampling rate or number of samples
 - [ ] Ability to detect a combination of conditions
 
-#### To know more details check [this](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/Power%20Quality%20Classification.pdf) out.
+#### To know more about the project check [this](https://github.com/aswarth123/Amrita_Honeywell_Hackathon/blob/main/Power%20Quality%20Classification.pdf) out.
 
